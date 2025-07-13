@@ -2,6 +2,8 @@
 
 This is a desktop application developed in C# using Windows Forms for managing employee data, including their details, positions, and salaries. The application connects to a SQL Server database to store and retrieve information.
 
+![image alt](https://github.com/100-Nisha/Empolyee-Managment-System/blob/master/Dashboard.png?raw=true)
+
 ## Features
 *   **User Authentication:** Secure login and registration for users.
 *   **Dashboard:** Overview of employee statistics (Total, Active, Inactive Employees).
